@@ -10,7 +10,7 @@ This project implements an [ACO](https://en.wikipedia.org/wiki/Ant_colony_optimi
 
 ## Configuration
 
-Simulation setup is realised in experimentc.py file which contains apropriate method calls to carry out the simulation as well as quite many ready setups as python dictionaries with following structure:
+Simulation setup is realised in experimentc.py file which contains apropriate method calls to carry out the simulation as well as quite many ready setups as python dictionaries with following control attributes:
 
 - *ant_number*: amount of ants on the graph
 - *node_number*: number of nodes in the graph
